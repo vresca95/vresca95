@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Victor Resca 👋
 
-<!--
-**vresca95/vresca95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :pushpin:About
 
-Here are some ideas to get you started:
+I'm a Web Developer, and, i'am studying web development at :rocket: [Rocketseat](https://www.rocketseat.com.br).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :memo:Current stack
+
+- Main language: `Javascript`
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- Layout Desing: `Figma`
+- Version code control: `Git & Github`
+- Toold: `VsCode`
+
+#### :globe_with_meridians:Contacts
+
+- Email: victor.resca@gmail.com
+- LinkeIn: https://www.linkedin.com/in/victor-resca/
